@@ -13,7 +13,7 @@ function Index() {
             fill
             className="object-cover"
             style={{
-              filter: "sepia(1) hue-rotate(300deg) saturate(0.5) contrast(1.2)"
+              filter: "sepia(1) hue-rotate(160deg) saturate(0.5) contrast(1.2)"
             }}
           />
         </div>
