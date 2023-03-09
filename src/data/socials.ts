@@ -9,17 +9,17 @@ const socials: {
 }[] = [
     {
         name: "Github",
-        url: "https://github.com/tommitchelmore/",
+        url: "https://github.com/JamesHarcourt7/",
         icon: RiGithubFill
     },
     {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/tommitchelmore/",
+        url: "https://www.linkedin.com/in/jamesharcourt7",
         icon: RiLinkedinFill
     },
     {
         name: "Instagram",
-        url: "https://www.instagram.com/mitchelmore.tom/",
+        url: "https://www.instagram.com/james__harcourt/",
         icon: RiInstagramLine
     }
 ]

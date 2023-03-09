@@ -8,27 +8,32 @@ function Index() {
       <main className="bg-card backdrop-blur-md border border-stroke max-w-lg rounded-xl overflow-hidden relative z-10">
         <div className="w-full h-64 relative">
           <Image
-            src="/image/me.jpeg"
-            alt="Thomas Mitchelmore"
+            src="/image/james2.jpeg"
+            alt="James Harcourt"
             fill
             className="object-cover"
             style={{
-              filter: "sepia(1) hue-rotate(160deg) saturate(0.5) contrast(1.2)"
+              filter: "sepia(1) hue-rotate(300deg) saturate(0.5) contrast(1.2)"
             }}
           />
         </div>
         <div className="p-8 space-y-6">
           <div className="space-y-2">
-            <h1>Thomas Mitchelmore</h1>
+            <h1>James Harcourt</h1>
             <h2>
-              Project Manager at <a href="https://iceline-hosting.com/" target="_blank">Iceline Hosting</a>.
+              Co-Founder, Full Stack Engineer at <a href="https://aardvark.studio/" target="_blank">Aardvark Studio</a>.
+            </h2>
+            <h2>
+              MEng Computer Science at University of Southampton.
             </h2>
           </div>
           <p>
-            With over 6 years of experience in the industry, I&apos;m a web designer and frontend developer that&apos;s passionate about creating beautiful, responsive sites that are a joy to use.
+            I&apos;m a keen web developer, great problem solver and collaborative team player. I&apos;ve been known
+            to dabble in other areas of tech, such as game development, machine learning, and more. My passions
+            include music, cooking and art.
           </p>
           <p className="font-medium">
-            <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+            <a href="mailto:james@harcourt.dev">james@harcourt.dev</a>
           </p>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>

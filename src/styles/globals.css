@@ -15,4 +15,7 @@
   h2 > a, p > a {
     @apply text-light underline;
   }
+  h3 {
+    @apply font-medium text-light/70;
+  }
 }
