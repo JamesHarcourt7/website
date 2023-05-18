@@ -1,6 +1,5 @@
-import { ReactNode } from "react"
 import { IconType } from "react-icons"
-import { RiGithubFill, RiInstagramLine, RiLinkedinFill } from "react-icons/ri"
+import { RiGithubFill, RiInstagramLine, RiLinkedinFill, RiSpotifyFill } from "react-icons/ri"
 
 const socials: {
     name: string,
@@ -21,6 +20,11 @@ const socials: {
         name: "Instagram",
         url: "https://www.instagram.com/james__harcourt/",
         icon: RiInstagramLine
+    },
+    {
+        name: "Spotify",
+        url: "https://open.spotify.com/user/4ln1a16kltr4ayo96vay4d68c?si=4edb49b2da624f11",
+        icon: RiSpotifyFill
     }
 ]
 

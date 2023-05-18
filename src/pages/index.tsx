@@ -21,7 +21,7 @@ function Index() {
           <div className="space-y-2">
             <h1>James Harcourt</h1>
             <h2>
-              Co-Founder, Full Stack Engineer at <a href="https://aardvark.studio/" target="_blank">Aardvark Studio</a>.
+              Co-Founder, Full Stack Engineer at <a href="https://novatura.co/" target="_blank">Novatura</a>.
             </h2>
             <h2>
               MEng Computer Science at University of Southampton.
@@ -32,9 +32,14 @@ function Index() {
             to dabble in other areas of tech, such as game development, machine learning, and more. My passions
             include music, cooking and art.
           </p>
-          <p className="font-medium">
-            <a href="mailto:james@harcourt.dev">james@harcourt.dev</a>
-          </p>
+          <div  className="font-medium">
+            <p>
+              <a href="mailto:james@harcourt.dev">james@harcourt.dev</a>
+            </p>
+            <p>
+              <a href="mailto:james@novatura.co">james@novatura.co</a>
+            </p>
+          </div>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>
               {socials.map(({ name, url, icon: Icon }, index) => (
