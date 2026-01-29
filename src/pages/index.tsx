@@ -28,10 +28,10 @@ function Index() {
             </h2>
           </div>
           <p>
-            As a Co-Founder at Novatura, I've helped deliver over 30 software projects for several business clients; from early stage ventures to nationwide scale-ups. Novatura started as a University of Southampton spin-out, and is now an award-winning software development agency.
+            As a Co-Founder at Novatura, I&apos;ve helped deliver over 30 software projects for several business clients; from early stage ventures to nationwide scale-ups.
           </p>
           <p>
-            I've demonstrated successful collaboration while working on scalable software solutions for growing businesses. I am proficient in exploring digital strategies, managing software projects, and creating substantial return on investment for clients.
+            I&apos;ve demonstrated successful collaboration while working on scalable software solutions for growing businesses. I am proficient in exploring digital strategies, managing software projects, and creating substantial return on investment for clients.
           </p>
           <div  className="font-medium">
             <p>
