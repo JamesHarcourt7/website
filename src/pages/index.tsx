@@ -8,7 +8,7 @@ function Index() {
       <main className="bg-card backdrop-blur-md border border-stroke max-w-lg rounded-xl overflow-hidden relative z-10">
         <div className="w-full h-64 relative">
           <Image
-            src="/image/james2.jpeg"
+            src="/image/james.JPG"
             alt="James Harcourt"
             fill
             className="object-cover"
@@ -21,21 +21,19 @@ function Index() {
           <div className="space-y-2">
             <h1>James Harcourt</h1>
             <h2>
-              Co-Founder, Full Stack Engineer at <a href="https://novatura.co/" target="_blank">Novatura</a>.
+              Co-Founder, Business Development at <a href="https://novatura.co/" target="_blank">Novatura</a>.
             </h2>
             <h2>
-              MEng Computer Science at University of Southampton.
+              1st Class Honours BSc Computer Science <br/>University of Southampton
             </h2>
           </div>
           <p>
-            I&apos;m a keen web developer, great problem solver and collaborative team player. I&apos;ve been known
-            to dabble in other areas of tech, such as game development, machine learning, and more. My passions
-            include music, cooking and art.
+            As a Co-Founder at Novatura, I've helped deliver over 30 software projects for several business clients; from early stage ventures to nationwide scale-ups. Novatura started as a University of Southampton spin-out, and is now an award-winning software development agency.
+          </p>
+          <p>
+            I've demonstrated successful collaboration while working on scalable software solutions for growing businesses. I am proficient in exploring digital strategies, managing software projects, and creating substantial return on investment for clients.
           </p>
           <div  className="font-medium">
-            <p>
-              <a href="mailto:james@harcourt.dev">james@harcourt.dev</a>
-            </p>
             <p>
               <a href="mailto:james@novatura.co">james@novatura.co</a>
             </p>
